@@ -1,7 +1,7 @@
 
 ![alt text](https://raw.githubusercontent.com/concrete-renato-ruis/markdown/master/logo.png "Docker")
 
-## Welcome, let's learn a little about the sensational Docker!
+## Welcome, let's install the sensational Docker!
 
 #### <i class="icon-file"></i> Requirements
 
@@ -19,7 +19,7 @@
 
 **Docker** is the company driving the container movement and the only container platform provider to address every application across the hybrid cloud. Today’s businesses are under pressure to digitally transform but are constrained by existing applications and infrastructure while rationalizing and increasingly diverse portfolio of clouds, datacenters and application architectures. Docker enables true independence between applications and infrastructure and developers and IT ops to unlock their potential and creates a model for better collaboration and innovation.
 
-See more [here](https://www.docker.com/) or [here](https://en.wikipedia.org/wiki/Docker_(software)
+See more [here](https://www.docker.com/) or [here](https://goo.gl/LdPSWv)
 
 ### Step 1
 #### Installation
